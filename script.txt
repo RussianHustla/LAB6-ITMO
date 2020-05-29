@@ -1,0 +1,6 @@
+show
+help
+history
+filter_by_furnish none
+info
+execute_script script.txt

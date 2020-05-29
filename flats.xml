@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flats>
+    <flat>
+        <id>1</id>
+        <name>треп хата</name>
+        <coordinates>
+            <x>5.0</x>
+            <y>8.0</y>
+        </coordinates>
+        <creationDate>Thu Apr 30 03:52:14 YEKT 2020</creationDate>
+        <area>25.0</area>
+        <numberOfRooms>2</numberOfRooms>
+        <kitchenArea>10</kitchenArea>
+        <timeToMetroOnFoot>5.0</timeToMetroOnFoot>
+        <furnish>BAD</furnish>
+        <house>
+            <houseName>дом 1</houseName>
+            <year>50</year>
+            <numberOfFlatsOnFloor>4</numberOfFlatsOnFloor>
+        </house>
+    </flat>
+    <flat>
+        <id>878</id>
+        <name>gfds</name>
+        <coordinates>
+            <x>5.0</x>
+            <y>5.0</y>
+        </coordinates>
+        <creationDate>Fri May 01 02:45:21 YEKT 2020</creationDate>
+        <area>5.0</area>
+        <numberOfRooms>5</numberOfRooms>
+        <kitchenArea>5</kitchenArea>
+        <timeToMetroOnFoot>5.0</timeToMetroOnFoot>
+        <furnish>NONE</furnish>
+        <house>
+            <houseName>gfds</houseName>
+            <year>5</year>
+            <numberOfFlatsOnFloor>5</numberOfFlatsOnFloor>
+        </house>
+    </flat>
+    <flat>
+        <id>913</id>
+        <name>qaswedf</name>
+        <coordinates>
+            <x>86.0</x>
+            <y>45.0</y>
+        </coordinates>
+        <creationDate>Sat May 02 01:48:39 YEKT 2020</creationDate>
+        <area>12.0</area>
+        <numberOfRooms>68</numberOfRooms>
+        <kitchenArea>8</kitchenArea>
+        <timeToMetroOnFoot>5.0</timeToMetroOnFoot>
+        <furnish>NONE</furnish>
+        <house>
+            <houseName>sdf</houseName>
+            <year>5</year>
+            <numberOfFlatsOnFloor>8</numberOfFlatsOnFloor>
+        </house>
+    </flat>
+    <flat>
+        <id>4</id>
+        <name>квартира</name>
+        <coordinates>
+            <x>45.0</x>
+            <y>65.0</y>
+        </coordinates>
+        <creationDate>Thu Apr 30 04:34:43 YEKT 2020</creationDate>
+        <area>54.0</area>
+        <numberOfRooms>5</numberOfRooms>
+        <kitchenArea>8</kitchenArea>
+        <timeToMetroOnFoot>9.0</timeToMetroOnFoot>
+        <furnish>DESIGNER</furnish>
+        <house>
+            <houseName>супер дом</houseName>
+            <year>2</year>
+            <numberOfFlatsOnFloor>5</numberOfFlatsOnFloor>
+        </house>
+    </flat>
+    <flat>
+        <id>3</id>
+        <name>еще квартира</name>
+        <coordinates>
+            <x>7.0</x>
+            <y>7.0</y>
+        </coordinates>
+        <creationDate>Thu Apr 30 03:54:27 YEKT 2020</creationDate>
+        <area>54.0</area>
+        <numberOfRooms>3</numberOfRooms>
+        <kitchenArea>5</kitchenArea>
+        <timeToMetroOnFoot>15.0</timeToMetroOnFoot>
+        <furnish>LITTLE</furnish>
+        <house>
+            <houseName>какой то дом</houseName>
+            <year>5</year>
+            <numberOfFlatsOnFloor>5</numberOfFlatsOnFloor>
+        </house>
+    </flat>
+    <flat>
+        <id>712</id>
+        <name>sdf</name>
+        <coordinates>
+            <x>5.0</x>
+            <y>6.0</y>
+        </coordinates>
+        <creationDate>Sat May 02 01:49:54 YEKT 2020</creationDate>
+        <area>7.0</area>
+        <numberOfRooms>8</numberOfRooms>
+        <kitchenArea>9</kitchenArea>
+        <timeToMetroOnFoot>1.0</timeToMetroOnFoot>
+        <furnish>NONE</furnish>
+        <house>
+            <houseName>gfde</houseName>
+            <year>5</year>
+            <numberOfFlatsOnFloor>5</numberOfFlatsOnFloor>
+        </house>
+    </flat>
+    <flat>
+        <id>31</id>
+        <name>super update</name>
+        <coordinates>
+            <x>54.0</x>
+            <y>45.0</y>
+        </coordinates>
+        <creationDate>Sat May 02 02:58:44 YEKT 2020</creationDate>
+        <area>54.0</area>
+        <numberOfRooms>54</numberOfRooms>
+        <kitchenArea>54</kitchenArea>
+        <timeToMetroOnFoot>54.0</timeToMetroOnFoot>
+        <furnish>BAD</furnish>
+        <house>
+            <houseName>fvdc</houseName>
+            <year>54</year>
+            <numberOfFlatsOnFloor>54</numberOfFlatsOnFloor>
+        </house>
+    </flat>
+    <flat>
+        <id>341</id>
+        <name>Из скрипта</name>
+        <coordinates>
+            <x>75.0</x>
+            <y>65.0</y>
+        </coordinates>
+        <creationDate>Mon May 04 20:15:37 YEKT 2020</creationDate>
+        <area>85.0</area>
+        <numberOfRooms>5</numberOfRooms>
+        <kitchenArea>14</kitchenArea>
+        <timeToMetroOnFoot>25.0</timeToMetroOnFoot>
+        <furnish>DESIGNER</furnish>
+        <house>
+            <houseName>Дом из скрипта</houseName>
+            <year>5</year>
+            <numberOfFlatsOnFloor>12</numberOfFlatsOnFloor>
+        </house>
+    </flat>
+    <flat>
+        <id>60</id>
+        <name>sdf</name>
+        <coordinates>
+            <x>5.0</x>
+            <y>5.0</y>
+        </coordinates>
+        <creationDate>Mon May 04 23:11:58 YEKT 2020</creationDate>
+        <area>5.0</area>
+        <numberOfRooms>5</numberOfRooms>
+        <kitchenArea>15</kitchenArea>
+        <timeToMetroOnFoot>23.0</timeToMetroOnFoot>
+        <furnish>NONE</furnish>
+        <house>
+            <houseName>dom</houseName>
+            <year>12</year>
+            <numberOfFlatsOnFloor>5</numberOfFlatsOnFloor>
+        </house>
+    </flat>
+    <flat>
+        <id>312</id>
+        <name>new one</name>
+        <coordinates>
+            <x>54.0</x>
+            <y>2.0</y>
+        </coordinates>
+        <creationDate>Mon May 04 23:51:59 YEKT 2020</creationDate>
+        <area>99.0</area>
+        <numberOfRooms>5</numberOfRooms>
+        <kitchenArea>12</kitchenArea>
+        <timeToMetroOnFoot>45.0</timeToMetroOnFoot>
+        <furnish>LITTLE</furnish>
+        <house>
+            <houseName>test</houseName>
+            <year>12</year>
+            <numberOfFlatsOnFloor>4</numberOfFlatsOnFloor>
+        </house>
+    </flat>
+    <flat>
+        <id>896</id>
+        <name>testsave</name>
+        <coordinates>
+            <x>54.0</x>
+            <y>45.0</y>
+        </coordinates>
+        <creationDate>Thu May 28 21:04:11 YEKT 2020</creationDate>
+        <area>54.0</area>
+        <numberOfRooms>5</numberOfRooms>
+        <kitchenArea>7</kitchenArea>
+        <timeToMetroOnFoot>10.0</timeToMetroOnFoot>
+        <furnish>NONE</furnish>
+        <house>
+            <houseName>sdv</houseName>
+            <year>5</year>
+            <numberOfFlatsOnFloor>5</numberOfFlatsOnFloor>
+        </house>
+    </flat>
+    <flat>
+        <id>413</id>
+        <name>ooooo</name>
+        <coordinates>
+            <x>54.0</x>
+            <y>7.0</y>
+        </coordinates>
+        <creationDate>Thu May 28 21:23:48 YEKT 2020</creationDate>
+        <area>7.0</area>
+        <numberOfRooms>7</numberOfRooms>
+        <kitchenArea>7</kitchenArea>
+        <timeToMetroOnFoot>7.0</timeToMetroOnFoot>
+        <furnish>LITTLE</furnish>
+        <house>
+            <houseName>fdv</houseName>
+            <year>8</year>
+            <numberOfFlatsOnFloor>8</numberOfFlatsOnFloor>
+        </house>
+    </flat>
+    <flat>
+        <id>264</id>
+        <name>teaedgbxg</name>
+        <coordinates>
+            <x>5.0</x>
+            <y>5.0</y>
+        </coordinates>
+        <creationDate>Fri May 29 15:58:55 YEKT 2020</creationDate>
+        <area>5.0</area>
+        <numberOfRooms>5</numberOfRooms>
+        <kitchenArea>5</kitchenArea>
+        <timeToMetroOnFoot>5.0</timeToMetroOnFoot>
+        <furnish>DESIGNER</furnish>
+        <house>
+            <houseName>dsfv</houseName>
+            <year>7</year>
+            <numberOfFlatsOnFloor>7</numberOfFlatsOnFloor>
+        </house>
+    </flat>
+</flats>
